@@ -14,8 +14,6 @@
 
 101-easy_print.py - Python program that prints #pythoniscool, followed by a new line, in the standard output, without using print or sys
 
-real_print.py - Helper file for the above task
-
 102-magic_calculation.py - Python function def magic_calculation(a, b): that does exactly the same as a given Python bytecode
 
 103-fast_alphabet.py - Python program that prints the alphabet in uppercase, followed by a new line
